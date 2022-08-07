@@ -1,0 +1,14 @@
+@font-face {
+  font-family: anafis;
+  src: url(assets/fonts/ANafis.ttf);
+}
+@font-face {
+  font-family: traditionalarabic;
+  src: url(assets/fonts/TraditionalArabicBold.ttf);
+}
+body {
+  font-family: anafis;
+}
+.header {
+  font-family: traditionalarabic;
+}
